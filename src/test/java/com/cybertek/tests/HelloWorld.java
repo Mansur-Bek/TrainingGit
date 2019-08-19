@@ -13,7 +13,8 @@ public class HelloWorld {
         System.out.println("New working branch");
         System.out.println("On work branch created");
         System.out.println("This change made on the remote repo on git hub");
-
+        System.out.println("This change made on the remote repo on git hub to ceck how git fetch command works");
+// this comment was added on github remote repo
 
     }
 }
